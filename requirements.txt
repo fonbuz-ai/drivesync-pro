@@ -1,0 +1,12 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+watchdog==4.0.1
+google-api-python-client==2.147.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.1
+pystray==0.19.5
+Pillow==10.4.0
+cryptography==43.0.1
+python-multipart==0.0.9
+aiofiles==24.1.0
+requests==2.32.3
